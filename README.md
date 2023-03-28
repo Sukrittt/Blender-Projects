@@ -1,1 +1,1 @@
-Display of only images of the Blender Objects.
+Displaying the Final Renders of these blender objects.
